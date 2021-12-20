@@ -1,0 +1,10 @@
+class Day : BaseDay
+{
+    public override string Name => "";
+
+    public override object Part1()
+    {
+        return null;
+    }
+
+}
